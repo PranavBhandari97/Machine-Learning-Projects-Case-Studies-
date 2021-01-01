@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 31 19:11:09 2020
-
-@author: admin
-"""
 
 #Importing the libraries
 import pandas as pd
