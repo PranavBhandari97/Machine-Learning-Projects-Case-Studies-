@@ -1,4 +1,4 @@
-# Likely hood of E-signing a loan
+# Likelihood of E-signing a loan
 
 ## Business Problems
 #### The provided dataset is for the customer base of a bank. The bank has tie-ups with a P2P company who send them potential leads about people who are interested in taking a loan. The goal of this project was to determine if a person will sign go to the final page of signing an E-contract for a loan or no. If a person reaches that page, he/she is said to be a quality applicant. Thus, a model needed to be designed which would predict if an applicant is a quality applicant or no.
